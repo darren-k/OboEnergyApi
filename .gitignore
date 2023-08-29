@@ -1,0 +1,44 @@
+# Binaries
+**/bin/
+**/obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet packages
+**/packages/
+
+# Local configuration file (SDK generated)
+appsettings.local.json
+appsettings.Development.json
+
+# User secrets
+**/secrets/
+**/*.user
+**/*.userosscache
+
+# Visual Studio Code
+.vscode/
+
+# Rider IDE
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Vim temp files
+*.swo
+*.swp
+
+# Output of 'dotnet restore'
+**/project.assets.json
+
+# .NET Core build folders
+**/bin-int
+**/obj/Debug
+**/obj/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
